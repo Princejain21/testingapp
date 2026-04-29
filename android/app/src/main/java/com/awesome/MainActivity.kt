@@ -1,4 +1,4 @@
-package com.awesome
+package com.app.testing
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
